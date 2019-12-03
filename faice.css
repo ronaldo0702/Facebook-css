@@ -1,0 +1,119 @@
+.encabezado
+{
+position:fixed;
+width:100%;
+height:85px;
+background-color: #4267b2; /*color original o parecido a facebook #1D3C78; */
+top:0;
+left:0;
+color:white;
+font-family: arial;
+}
+
+#form1
+{
+margin-left:700px;
+top:20px;
+height:60px;
+width:180px;
+}
+
+#form2
+{
+margin-left:895px;
+top:20px;
+height:60px;
+width:200px;
+}
+
+#enca
+{
+margin-left:100px;
+height:50px;
+width:110px;
+top:25px;
+color: white;
+}
+
+.logofb
+{
+	margin-left:100px;
+	height:40px;
+	width:110px;
+	color: white;
+	font-size: 40px;
+	margin-top: 0px;
+}
+
+#enviar
+{
+margin-left:1100px;
+top:39px;
+height:25px;
+width:50px;
+}
+
+a
+{
+	color: white;
+    font-size:10px;
+}
+
+.segundo-encab
+{
+	color:#4267b2;
+	margin-top: 120px;
+	margin-left: 200px;
+}
+
+
+.formulariodatos
+{
+	color: black;
+	margin-left: 750px;
+	margin-top: -300px;
+}
+
+.links
+{
+	color: blue; font-size:14px;
+}
+
+.genero
+{
+	color:black;
+	margin-left:750px;
+	top:20px;
+	height:60px;
+	width:200px;
+}
+
+.align
+{
+position: fixed;
+}
+
+.button2
+{
+	margin-left:750px;
+	margin-top: 14px;
+}
+
+
+
+.lista ul
+{
+   padding-right: 0px;
+   padding-left: 200px;
+   padding-bottom: 0px;
+   padding-top: 0px;
+   margin: 0px;
+}
+
+.lista li
+{
+	 color: black;
+   list-style-type: none;
+   display: inline;
+   padding-right: 5px;
+}
